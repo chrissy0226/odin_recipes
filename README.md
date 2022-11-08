@@ -1,1 +1,3 @@
 # odin_recipes
+My Recipes
+This project is website that contains my main index page that has links to of some of my favorite Haitian recipes. While workng on this project I became more familiar with shell commands and GitHub. At the start of this projects, I would often look back at my notes for shell commands or how to do a certain task. Since this project consisted of repetitive steps, I memorized some important shell commands and obtained a greater understanding of html.
